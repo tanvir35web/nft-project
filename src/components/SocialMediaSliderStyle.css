@@ -1,0 +1,16 @@
+.sliderLogoContainer {
+
+    padding: 20px 0 20px 20px;
+    border-top: 1px solid rgba(0, 0, 0, 0.084);
+    margin-top: 1rem;
+}
+
+.socialMedia {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.socialMedia img {
+    margin-right: 16px
+}

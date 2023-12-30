@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200;300;400;500;600;700;800;900&display=swap');
+
+
+.userProfileImage {
+    border-radius: 50%;
+    margin: 20px 0 10px 20px;
+}
+
+.UserName {
+    font-family: 'Kanit', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #004E89;
+    margin-left: 20px;
+
+}
+
+.designation {
+    font-family: 'Kanit', sans-serif ;
+    font-weight: 400;
+    font-size: 14px;
+    color: #3F84B8;
+    margin: 0px 0 0 20px;
+}
+
+
+
+/* .custom-hr {
+    border: 0.5px solid #3f84b845;
+    margin: 20px 0; 
+} */

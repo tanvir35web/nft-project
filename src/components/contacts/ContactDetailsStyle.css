@@ -1,0 +1,14 @@
+.contactDetails {
+    font-size: 16px;
+    font-weight: 600;
+    color: #004E89;
+    letter-spacing: .5px;
+    margin: 1rem 0 1rem 20px;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    
+    
+}

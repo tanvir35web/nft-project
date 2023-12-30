@@ -1,0 +1,52 @@
+.footerContainer {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.send {
+    background: #004E89;
+    width: 76px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 48px;
+    margin-right: 10px;
+}
+
+.send img {
+ width: 44px;
+ height: 44px;
+}
+
+
+.addBtnText {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 15px;
+    color: white;
+    padding-left: 20px;
+    letter-spacing: 0.3px;
+}
+
+.add {
+    background: #004E89;
+    width: 125px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 48px;
+    padding: 0 2px;
+
+}

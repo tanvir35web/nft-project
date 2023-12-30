@@ -1,0 +1,29 @@
+.contactContainer {
+    display: grid;
+    grid-template-columns:15px 220px 15px;
+    align-items: center;
+    width: 90vw;
+    justify-content: space-between;
+    background-color: #858585;
+    margin: 0.25rem 20px;
+    background-color: #F9F9F9;
+    padding: 12px;
+    border-radius: 8px;
+
+}
+
+.servicesInfo {
+    display: flex;
+    flex-direction: column;
+}
+
+.serviceName {
+    color: #3F83B8;
+    font-size: 12px;
+}
+
+.address {
+    color: #004E89;
+    font-size: 14px;
+    font-weight: 500;
+}
