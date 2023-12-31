@@ -1,10 +1,10 @@
 import React from "react";
 import "./ContactDetailsStyle.css";
 import Contact from "./Contact";
-import emailIcon from "../../assets/Contact Icon/email.png";
-import phoneIcon from "../../assets/Contact Icon/call.png";
-import addressIcon from "../../assets/Contact Icon/location.png";
-import arrow from "../../assets/Contact Icon/arrow-right.png";
+import emailIcon from "../../assets/Contact Icon/email.svg";
+import phoneIcon from "../../assets/Contact Icon/call.svg";
+import addressIcon from "../../assets/Contact Icon/location.svg";
+import arrow from "../../assets/Contact Icon/arrow-right.svg";
 
 export default function ContactsDetails() {
   return (

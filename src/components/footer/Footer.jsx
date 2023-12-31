@@ -1,9 +1,8 @@
 import React from "react";
 import "./FooterStyle.css";
-import send from "../../assets/Footer Icon/send.png";
-import share from "../../assets/Footer Icon/share.png";
-import add from "../../assets/Footer Icon/add-circle.png";
-
+import send from "../../assets/Footer Icon/send.svg";
+import share from "../../assets/Footer Icon/share.svg";
+import add from "../../assets/Footer Icon/add-circle.svg";
 export default function Footer() {
   return (
     <div className="footerContainer">

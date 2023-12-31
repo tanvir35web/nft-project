@@ -1,11 +1,11 @@
 import React from "react";
 import "./SocialMediaSliderStyle.css";
-import facebook from "../assets/Social Logo/Facebook.png";
-import twitter from "../assets/Social Logo/Twitter.png";
-import instagram from "../assets/Social Logo/Instagram.png";
-import linkedIn from "../assets/Social Logo/LinkedIn.png";
-import snapchat from "../assets/Social Logo/Snapchat.png";
-import youtube from "../assets/Social Logo/YouTube.png";
+import facebook from "../assets/Social Logo/Facebook.svg";
+import twitter from "../assets/Social Logo/Twitter.svg";
+import instagram from "../assets/Social Logo/Instagram.svg";
+import linkedIn from "../assets/Social Logo/LinkedIn.svg";
+import snapchat from "../assets/Social Logo/Snapchat.svg";
+import youtube from "../assets/Social Logo/YouTube.svg";
 import apple from "../assets/Social Logo/Apple.png";
 import skype from "../assets/Social Logo/Skype.png";
 import dribble from "../assets/Social Logo/Dribble.png";
