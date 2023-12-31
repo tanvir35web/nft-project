@@ -14,14 +14,12 @@ import telegram from "../assets/Social Logo/Telegram.png";
 import { Navigation, Pagination, Scrollbar, A11y } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 
-import 'swiper/css';
-import 'swiper/css/navigation';
-import 'swiper/css/pagination';
-import 'swiper/css/scrollbar';
-
+import "swiper/css";
+import "swiper/css/navigation";
+import "swiper/css/pagination";
+import "swiper/css/scrollbar";
 
 export default function SocialMediaSlider() {
-  
   return (
     <div className="sliderLogoContainer">
       <div className="socialMedia">
@@ -29,8 +27,7 @@ export default function SocialMediaSlider() {
           // install Swiper modules
           modules={[Navigation, Pagination, Scrollbar]}
           spaceBetween={10}
-      slidesPerView={6.3}
-
+          slidesPerView={6.3}
           grabCursor={true}
           onSlideChange={() => console.log("slide change")}
         >
